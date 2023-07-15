@@ -37,4 +37,4 @@ $python server.py
 ```
 
 
-AND you can your project running on http://localhost:5000/movies
+AND you can see your project running on http://localhost:5000/movies
