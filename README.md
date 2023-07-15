@@ -29,9 +29,12 @@ The search should be by Title. It's should be a text input that, with each chara
 [https://codesandbox.io/s/](https://codesandbox.io/s/)
 
 ## How to run this app. ( install python3 if not installed before running following commands)
-
+```
 $python3 -m venv py3venv && source py3venv/bin/activate
 $pip install -r requirements.txt
 $python server.py
+
+```
+
 
 AND you can your project running on http://localhost:5000/movies
