@@ -1,0 +1,13 @@
+
+  h1 {
+    text-align: center;
+  }
+  
+  img.thumbnail{
+    width: 150px;
+    height: 200px;
+  }
+  td{
+    word-wrap: break-word;
+  }
+  
